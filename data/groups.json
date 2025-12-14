@@ -1,0 +1,43 @@
+{
+  "groups": {
+    "120363420894149078@g.us": {
+      "antiLink": true,
+      "antiBadWords": true,
+      "antiPrivate": true,
+      "antiTime": {
+        "enabled": true,
+        "closeTime": "20:00",
+        "openTime": "08:00",
+        "status": "opened"
+      },
+      "welcome": true,
+      "originalName": "Omar AI"
+    },
+    "120363405433223346@g.us": {
+      "antiLink": true,
+      "antiBadWords": true,
+      "antiPrivate": true,
+      "antiTime": {
+        "enabled": true,
+        "closeTime": "20:00",
+        "openTime": "08:00",
+        "status": "opened"
+      },
+      "welcome": true,
+      "originalName": "Omar AI"
+    },
+    "120363406517284304@g.us": {
+      "antiLink": true,
+      "antiBadWords": true,
+      "antiPrivate": true,
+      "antiTime": {
+        "enabled": true,
+        "closeTime": "20:00",
+        "openTime": "08:00",
+        "status": "opened"
+      },
+      "welcome": true,
+      "originalName": "Omar AI"
+    }
+  }
+}

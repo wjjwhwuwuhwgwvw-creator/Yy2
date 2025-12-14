@@ -1,0 +1,31 @@
+{
+  "userId": "41395565908026@lid",
+  "lastUpdated": "2025-12-14T08:27:46.044Z",
+  "messages": [
+    {
+      "role": "model",
+      "text": "📋 قائمة التطبيقات المعروضة للمستخدم:\n1. Onefootball (appId: undefined)\n2. Mini Football (appId: undefined)\n3. Football Superstar 2 (appId: undefined)\n\n⚠️ مهم: إذا قال المستخدم رقم (1 أو 2 أو 3...)، استخدم download_app مع appId المناسب من القائمة أعلاه.",
+      "timestamp": "2025-12-14T08:25:01.154Z"
+    },
+    {
+      "role": "model",
+      "text": "📋 قائمة التطبيقات المعروضة للمستخدم:\n1. Football Superstar 2 (appId: undefined)\n2. Onefootball (appId: undefined)\n3. Football Life Simulator (appId: undefined)\n\n⚠️ مهم: إذا قال المستخدم رقم (1 أو 2 أو 3...)، استخدم download_app مع appId المناسب من القائمة أعلاه.",
+      "timestamp": "2025-12-14T08:25:46.859Z"
+    },
+    {
+      "role": "user",
+      "text": "FIFA 2026 بدون انترنت",
+      "timestamp": "2025-12-14T08:26:48.655Z"
+    },
+    {
+      "role": "model",
+      "text": "{\"action\": \"search_app\", \"query\": \"FIFA 2026 بدون انترنت\"}",
+      "timestamp": "2025-12-14T08:26:48.655Z"
+    },
+    {
+      "role": "model",
+      "text": "📋 قائمة التطبيقات المعروضة للمستخدم:\n1. Sport Car 3 (appId: undefined)\n\n⚠️ مهم: إذا قال المستخدم رقم (1 أو 2 أو 3...)، استخدم download_app مع appId المناسب من القائمة أعلاه.",
+      "timestamp": "2025-12-14T08:27:46.044Z"
+    }
+  ]
+}
